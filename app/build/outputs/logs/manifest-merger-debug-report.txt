@@ -1,0 +1,356 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\79a21bee9263fe80dd7d7f4cdd116cd4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4797069a3a5bafc29bc453f25da08975\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\fec516f489cdcb93003686caf4f2e021\AndroidManifest.xml:17:1-24:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\28f8791ef453434ff5fb0ecdafe24b7a\AndroidManifest.xml:6:1-15:12
+MERGED from [com.airbnb.android:lottie:3.0.0-beta4] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b6d0c5606658061fad4c1f699addfb04\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f69175116fe09791ab9d9f13cb2205d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\31307576184fabc68f9e70fb6d569cda\AndroidManifest.xml:2:1-11:12
+MERGED from [com.minimize.library:chronometerpersist:1.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\33324598fb217ade51f29c9a1c7c5fe7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.mayuce:LottieAlertDialog:1.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4a51715457db1438a8f53dce43d4b4e2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.thomper:sweet-alert-dialog:1.4.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\56c833f7e1e4cfd042afc91c788773c4\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f01bcb2242e500cec76f4511f1227dfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3b95f49d9751c518bae772c2cf561679\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3c36a0c28e5589b9fe312d71d2313f80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\5c5d63fefe03ac58a6fbe71fb1b25222\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f78c515a4450422454b75b3636d34e9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\dfba7b2a512c3d01b1dddc6e379a2017\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\338d219f6a0a69b12bdf3942151852ad\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\28e8edf73ba3b20be4f2a311c49f5d98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\8aa3489e58cdba76096786fe950d6fe2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1dc5656f7160b753ed080f3a755f767f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3f52da996e278946fd83353538a6746f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1c5f972fe5d95a71723802f65c3de344\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\d0c3f8018f39c7dd207ab96ee52c864b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\ab64dbc52b86ca184558a5ca127497ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha06] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\79404ebf7a365a7403f0df9ec996b3d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\a1be6358b653f6492dd533b502925b3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4bf22ee962abda80216fe99f374fea61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\cc2fb02edba4679b263ffb44ced9f383\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b9d626f4fb77c7d9c6f0fc89373cb008\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f5172df409ad38f4d2bdda905fad6523\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1b05910ba4320e73cafa0c45eb3062d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\2744706e35255223d3da343ff2a3e997\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\e1eb3adb2fab43b77e8ea6ce90bc79aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3fe4ffb0af76931edb6d2f4f8e601bd5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\71ad5204d1e1a027425920c8f516443b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\7126f4726dda10e9b97a5a977817559e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\8a66652039a816cb6f8834d97817bb3d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\44e2013a5aa917eb1295d1e9546fcd7f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\a9822c5e01be10eea6f1c1a8cd8f2f2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\50ab576518c7080aa790eeb3cfa26f7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\99fc2d6b1a88bbc4613af529d1ea3693\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\ebf6767baa94e624969cc0b8464604c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\17cce9564d4f894e510192758679ae6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\54aa84d710a29297fbb8c0cbdda22d2c\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:4:11-39
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:1-97:12
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:6:22-63
+application
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:8:5-95:19
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\fec516f489cdcb93003686caf4f2e021\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\fec516f489cdcb93003686caf4f2e021\AndroidManifest.xml:22:5-20
+MERGED from [com.airbnb.android:lottie:3.0.0-beta4] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b6d0c5606658061fad4c1f699addfb04\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.0.0-beta4] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b6d0c5606658061fad4c1f699addfb04\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\31307576184fabc68f9e70fb6d569cda\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\31307576184fabc68f9e70fb6d569cda\AndroidManifest.xml:9:5-20
+MERGED from [com.github.thomper:sweet-alert-dialog:1.4.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\56c833f7e1e4cfd042afc91c788773c4\AndroidManifest.xml:11:5-20
+MERGED from [com.github.thomper:sweet-alert-dialog:1.4.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\56c833f7e1e4cfd042afc91c788773c4\AndroidManifest.xml:11:5-20
+MERGED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:11:5-16:19
+MERGED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:11:5-16:19
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f5172df409ad38f4d2bdda905fad6523\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f5172df409ad38f4d2bdda905fad6523\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\2744706e35255223d3da343ff2a3e997\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\2744706e35255223d3da343ff2a3e997\AndroidManifest.xml:22:5-23:19
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\54aa84d710a29297fbb8c0cbdda22d2c\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\54aa84d710a29297fbb8c0cbdda22d2c\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f5172df409ad38f4d2bdda905fad6523\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:12:13-45
+	android:fullBackupContent
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:13:13-58
+	android:icon
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:11:13-47
+	android:allowBackup
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:14:13-44
+	tools:replace
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:15:13-41
+receiver#id.amoled.timerapp.receiver.Timer20Receiver
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:16:9-20:20
+	android:enabled
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:18:17-39
+	android:exported
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:19:17-41
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:17:17-57
+activity#id.amoled.timerapp.Notif2HrsActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:25:17-60
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:24:17-47
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:23:17-50
+activity#id.amoled.timerapp.Notif20Activity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:30:17-60
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:29:17-50
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:28:17-48
+activity#id.amoled.timerapp.PosturActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:35:17-59
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:34:17-45
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:33:17-47
+activity#id.amoled.timerapp.PetunjukActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:37:9-41:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:40:17-59
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:39:17-50
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:38:17-49
+activity#id.amoled.timerapp.ergonomic.ErgonomicActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:45:17-59
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:44:17-57
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:43:17-60
+activity#id.amoled.timerapp.PenyakitKerjaActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:47:9-51:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:50:17-59
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:49:17-43
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:48:17-54
+activity#id.amoled.timerapp.AboutActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:52:9-56:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:55:17-59
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:54:17-43
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:53:17-46
+activity#id.amoled.timerapp.BreakActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:57:19-48
+activity#id.amoled.timerapp.onboarding.PagerActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:59:9-63:20
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:61:17-61
+	android:theme
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:62:17-60
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:60:17-57
+receiver#id.amoled.timerapp.receiver.TimerExpiredReceiver
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:65:9-69:20
+	android:enabled
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:67:17-39
+	android:exported
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:68:17-41
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:66:17-62
+receiver#id.amoled.timerapp.TimerNotificationActionReceiver
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:70:9-80:20
+	android:enabled
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:72:17-39
+	android:exported
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:73:17-41
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:71:17-64
+intent-filter#action:name:pause+action:name:resume+action:name:start+action:name:stop
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:74:13-79:29
+action#stop
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:75:17-46
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:75:25-44
+action#pause
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:76:17-47
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:76:25-45
+action#resume
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:77:17-48
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:77:25-46
+action#start
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:78:17-47
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:78:25-45
+activity#id.amoled.timerapp.KeduaActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:82:9-86:20
+	android:parentActivityName
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:85:17-59
+	android:label
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:84:17-44
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:83:17-46
+activity#id.amoled.timerapp.MainActivity
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:87:9-94:20
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:87:19-47
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:88:13-93:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:89:17-68
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:89:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:90:17-68
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:90:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:92:17-76
+	android:name
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml:92:27-74
+uses-sdk
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\79a21bee9263fe80dd7d7f4cdd116cd4\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.4.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\79a21bee9263fe80dd7d7f4cdd116cd4\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4797069a3a5bafc29bc453f25da08975\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.4.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4797069a3a5bafc29bc453f25da08975\AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\fec516f489cdcb93003686caf4f2e021\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\fec516f489cdcb93003686caf4f2e021\AndroidManifest.xml:20:5-44
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\28f8791ef453434ff5fb0ecdafe24b7a\AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\28f8791ef453434ff5fb0ecdafe24b7a\AndroidManifest.xml:11:5-13:41
+MERGED from [com.airbnb.android:lottie:3.0.0-beta4] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b6d0c5606658061fad4c1f699addfb04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.0.0-beta4] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b6d0c5606658061fad4c1f699addfb04\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f69175116fe09791ab9d9f13cb2205d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f69175116fe09791ab9d9f13cb2205d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\31307576184fabc68f9e70fb6d569cda\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\31307576184fabc68f9e70fb6d569cda\AndroidManifest.xml:5:5-7:41
+MERGED from [com.minimize.library:chronometerpersist:1.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\33324598fb217ade51f29c9a1c7c5fe7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.minimize.library:chronometerpersist:1.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\33324598fb217ade51f29c9a1c7c5fe7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mayuce:LottieAlertDialog:1.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4a51715457db1438a8f53dce43d4b4e2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mayuce:LottieAlertDialog:1.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4a51715457db1438a8f53dce43d4b4e2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.thomper:sweet-alert-dialog:1.4.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\56c833f7e1e4cfd042afc91c788773c4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.thomper:sweet-alert-dialog:1.4.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\56c833f7e1e4cfd042afc91c788773c4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f01bcb2242e500cec76f4511f1227dfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f01bcb2242e500cec76f4511f1227dfb\AndroidManifest.xml:20:5-44
+MERGED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3b95f49d9751c518bae772c2cf561679\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3b95f49d9751c518bae772c2cf561679\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3c36a0c28e5589b9fe312d71d2313f80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3c36a0c28e5589b9fe312d71d2313f80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\5c5d63fefe03ac58a6fbe71fb1b25222\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\5c5d63fefe03ac58a6fbe71fb1b25222\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f78c515a4450422454b75b3636d34e9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f78c515a4450422454b75b3636d34e9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\dfba7b2a512c3d01b1dddc6e379a2017\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\dfba7b2a512c3d01b1dddc6e379a2017\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\338d219f6a0a69b12bdf3942151852ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\338d219f6a0a69b12bdf3942151852ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\28e8edf73ba3b20be4f2a311c49f5d98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\28e8edf73ba3b20be4f2a311c49f5d98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\8aa3489e58cdba76096786fe950d6fe2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\8aa3489e58cdba76096786fe950d6fe2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1dc5656f7160b753ed080f3a755f767f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1dc5656f7160b753ed080f3a755f767f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3f52da996e278946fd83353538a6746f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3f52da996e278946fd83353538a6746f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1c5f972fe5d95a71723802f65c3de344\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1c5f972fe5d95a71723802f65c3de344\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\d0c3f8018f39c7dd207ab96ee52c864b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\d0c3f8018f39c7dd207ab96ee52c864b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\ab64dbc52b86ca184558a5ca127497ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\ab64dbc52b86ca184558a5ca127497ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\79404ebf7a365a7403f0df9ec996b3d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\79404ebf7a365a7403f0df9ec996b3d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\a1be6358b653f6492dd533b502925b3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\a1be6358b653f6492dd533b502925b3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4bf22ee962abda80216fe99f374fea61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\4bf22ee962abda80216fe99f374fea61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\cc2fb02edba4679b263ffb44ced9f383\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\cc2fb02edba4679b263ffb44ced9f383\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b9d626f4fb77c7d9c6f0fc89373cb008\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\b9d626f4fb77c7d9c6f0fc89373cb008\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f5172df409ad38f4d2bdda905fad6523\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\f5172df409ad38f4d2bdda905fad6523\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1b05910ba4320e73cafa0c45eb3062d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\1b05910ba4320e73cafa0c45eb3062d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\2744706e35255223d3da343ff2a3e997\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\2744706e35255223d3da343ff2a3e997\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\e1eb3adb2fab43b77e8ea6ce90bc79aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\e1eb3adb2fab43b77e8ea6ce90bc79aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3fe4ffb0af76931edb6d2f4f8e601bd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\3fe4ffb0af76931edb6d2f4f8e601bd5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\71ad5204d1e1a027425920c8f516443b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\71ad5204d1e1a027425920c8f516443b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\7126f4726dda10e9b97a5a977817559e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\7126f4726dda10e9b97a5a977817559e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\8a66652039a816cb6f8834d97817bb3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\8a66652039a816cb6f8834d97817bb3d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\44e2013a5aa917eb1295d1e9546fcd7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\44e2013a5aa917eb1295d1e9546fcd7f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\a9822c5e01be10eea6f1c1a8cd8f2f2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\a9822c5e01be10eea6f1c1a8cd8f2f2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\50ab576518c7080aa790eeb3cfa26f7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\50ab576518c7080aa790eeb3cfa26f7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\99fc2d6b1a88bbc4613af529d1ea3693\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\99fc2d6b1a88bbc4613af529d1ea3693\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\ebf6767baa94e624969cc0b8464604c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\ebf6767baa94e624969cc0b8464604c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\17cce9564d4f894e510192758679ae6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\17cce9564d4f894e510192758679ae6c\AndroidManifest.xml:20:5-44
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\54aa84d710a29297fbb8c0cbdda22d2c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\54aa84d710a29297fbb8c0cbdda22d2c\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TIUNIDA\StudioProjects\TimerApp\app\src\main\AndroidManifest.xml
+provider#com.deploygate.sdk.DeployGateProvider
+ADDED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:12:9-15:40
+	android:authorities
+		ADDED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:14:13-70
+	android:exported
+		ADDED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.deploygate:sdk:4.1.0] C:\Users\TIUNIDA\.gradle\caches\transforms-2\files-2.1\435194eac1b783080eea9396b1cff26d\AndroidManifest.xml:13:13-65

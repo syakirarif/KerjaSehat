@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".PenyakitKerjaActivity">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center">
+
+            <com.airbnb.lottie.LottieAnimationView
+                    android:layout_width="180dp"
+                    android:layout_height="180dp"
+                    app:lottie_autoPlay="true"
+                    android:id="@+id/penyakit_kerja_animation"
+                    app:lottie_loop="true"
+                    app:lottie_fileName="onboarding_read.json"
+                    android:scaleType="centerCrop"
+                    app:lottie_scale="0.1"/>
+        </LinearLayout>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:paddingBottom="16dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:orientation="vertical">
+
+            <TextView
+                    android:id="@+id/onboarding_tv_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/title_penyakit_kerja"
+                    android:textSize="28sp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="8dp"
+                    android:textColor="@color/black"/>
+
+            <TextView
+                    android:id="@+id/onboarding_tv_desc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:text="@string/penyakit_kerja_1"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Kerja Sehat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_pager">PagerActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ob_title_1">Lebih produktif dalam bekerja</string>
+    <string name="ob_desc_1">Bekerja akan lebih produktif dengan memperhatikan faktor Keselamatan dan Kesehatan Kerja</string>
+
+    <string name="ob_title_2">Musculosceletal Disorders (MSDs)</string>
+    <string name="ob_desc_2">Kenali Musculosceletal Disorders (MSDs) yang dapat menjadi ancaman kesehatan saat bekerja</string>
+
+    <string name="ob_title_3">Bantu anda mencegahnya</string>
+    <string name="ob_desc_3">Aplikasi Kerja Sehat akan membantu anda agar dapat terhindar dari Musculosceletal Disorders (MSDs) saat bekerja</string>
+
+    <string name="pengertian_msd1">Berkembangnya dunia teknologi membawa dampak positif dan negatif bagi tenaga kerja di Indonesia.
+        \n\nSalah satu dampak negatif bagi tenaga kerja adalah gangguan Musculosceletal Disorders (MSDs), karena tuntutan pekerjaan yang mengharuskan tenaga kerja fokus bekerja di depan layar monitor komputer dalam waktu yang cukup lama dengan posisi duduk.
+        \n\nPekerjaan yang dilakukan secara berulang-ulang dapat menimbulkan kelelahan pada otot, merusak jaringan hingga menyebabkan kesakitan dan ketidaknyamanan. Pada permulaannya MSDs menimbulkan sakit, nyeri, mati rasa, kesemutan, pembengkakan, kaku, gemetar, gangguan tidur juga rasa seperti terbakar\n</string>
+
+    <string name="penyakit_kerja_1">Hasil penelitian dari berbagai negara menunjukkan bahwa masalah MSDs adalah salah satu kasus penyakit akibat kerja terbanyak.
+        \n\nDi Amerika, ada sekitar 6 juta kasus per tahunnya atau rata-rata 300-400 kasus per 100 orang tenaga kerja.
+        \n\nSedangkan di Indonesia gangguan yang dialami tenaga kerja menurut penelitian yang dilakukan kepada 9.482 tenaga kerja di 12 kabupaten atau kota di Indonesia pada umumnya adalah:\n1. penyakit MSDs (16&#37;),\n2. kardiovaskuler (8&#37;),\n3. gangguan saraf (5&#37;),\n4. gangguan pernapasan (3&#37;) dan\n5. gangguan THT.</string>
+
+    <string name="erg_rule_1">Setelah menatap monitor selama 20 menit pekerja diharapkan untuk menatap objek lain yang jauhnya 20 kaki selama 20 detik.\n\nLangkah ini bertujuan untuk menghindari kelelahan mata akibat selalu menatap monitor saat bekerja dengan posisi yang dekat.</string>
+    <string name="erg_rule_2">Setelah 2 jam duduk bekerja di depan monitor, biasakan untuk melakukan peregangan otot dan jalan sejauh 20 langkah.\n\nMetode ini bertujuan agar  pekerja yang selalu berhadapan dengan monitor dapat melakukan peregangan pada otot yang kaku dan mengurangi risiko Musculoskeletal Disorders.</string>
+
+    <string name="petunjuk_app">Aplikasi \'Kerja Sehat\' membantu anda untuk menerapkan metode \'Ergonomic Rule of Twenty\' ketika anda bekerja.\n\nKlik tombol: \'Mulai Bekerja\' di halaman beranda untuk memulai timer kerja.\n\nTimer akan berhenti dan memberikan notifikasi setiap 20 menit.</string>
+    <string name="mulai_bekerja">MULAI BEKERJA</string>
+    <string name="an_image">an image</string>
+    <string name="finish">Finish</string>
+    <string name="skip">Skip</string>
+    <string name="title_petunjuk">Petunjuk Aplikasi</string>
+    <string name="title_penyakit_kerja">Penyakit Kerja</string>
+    <string name="title_poster">Postur tubuh yang benar dan salah saat bekerja</string>
+    <string name="title_btn_penyakit_kerja">Penyakit Kerja</string>
+    <string name="title_btn_disorder">Musculosceletal Disorders</string>
+    <string name="title_btn_poster">Postur yang benar dan salah</string>
+    <string name="title_btn_petunjuk">Petunjuk Aplikasi</string>
+    <string name="title_btn_rule">Ergonomic Rule of Twenty</string>
+    <string name="tekan_play">Tekan tombol play untuk mulai bekerja</string>
+    <string name="title_ergonomic">Lihat objek lain setiap 20 menit</string>
+    <string name="title_jalan_kaki">Berjalan kaki setiap 2 jam</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+</resources>

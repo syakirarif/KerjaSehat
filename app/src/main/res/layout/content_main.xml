@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            tools:showIn="@layout/activity_main"
+            android:orientation="vertical"
+            android:padding="8dp"
+            tools:context=".MainActivity">
+
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                app:cardUseCompatPadding="false"
+                app:cardElevation="4dp"
+                app:cardCornerRadius="3dp">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/layer_1"
+                        android:scaleType="centerCrop"
+                        android:contentDescription="@string/an_image"
+                        android:id="@+id/btn_penyakit_kerja"/>
+
+                <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:paddingStart="16dp"
+                        android:paddingLeft="16dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/green"
+                        android:text="@string/title_btn_penyakit_kerja"
+                        tools:ignore="RtlHardcoded,RtlSymmetry"/>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_marginTop="8dp"
+                app:cardUseCompatPadding="false"
+                app:cardElevation="4dp"
+                app:cardCornerRadius="3dp">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        android:layout_width="match_parent"
+                        android:scaleType="centerCrop"
+                        android:contentDescription="@string/an_image"
+                        android:layout_height="match_parent"
+                        android:id="@+id/btn_pengertian_mds"
+                        android:src="@drawable/btn_disorder"/>
+
+                <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:paddingStart="16dp"
+                        android:paddingLeft="16dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/green"
+                        android:text="@string/title_btn_disorder"
+                        tools:ignore="RtlHardcoded,RtlSymmetry"/>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_marginTop="8dp"
+                app:cardUseCompatPadding="false"
+                app:cardElevation="4dp"
+                app:cardCornerRadius="3dp">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/btn_correct"
+                        android:contentDescription="@string/an_image"
+                        android:scaleType="centerCrop"
+                        android:id="@+id/btn_postur"/>
+
+                <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:paddingStart="16dp"
+                        android:paddingLeft="16dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/green"
+                        android:text="@string/title_btn_poster"
+                        tools:ignore="RtlHardcoded,RtlSymmetry"/>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_marginTop="8dp"
+                app:cardUseCompatPadding="false"
+                app:cardElevation="4dp"
+                app:cardCornerRadius="3dp">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/btn_rule"
+                        android:contentDescription="@string/an_image"
+                        android:scaleType="centerCrop"
+                        android:id="@+id/btn_ergonomic"/>
+
+                <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:paddingStart="16dp"
+                        android:paddingLeft="16dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/green"
+                        android:text="@string/title_btn_rule"
+                        tools:ignore="RtlHardcoded,RtlSymmetry"/>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_marginTop="8dp"
+                app:cardUseCompatPadding="false"
+                app:cardElevation="4dp"
+                app:cardCornerRadius="3dp">
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/btn_petunjuk"
+                        android:scaleType="centerCrop"
+                        android:contentDescription="@string/an_image"
+                        android:id="@+id/btn_petunjuk"/>
+
+                <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:paddingStart="16dp"
+                        android:paddingLeft="16dp"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/green"
+                        android:text="@string/title_btn_petunjuk"
+                        tools:ignore="RtlHardcoded,RtlSymmetry"/>
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>

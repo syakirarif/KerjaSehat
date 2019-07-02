@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.amoled.timerapp"
+    android:targetSandboxVersion="2"
+    android:versionCode="3"
+    android:versionName="1.1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <receiver
+            android:name="id.amoled.timerapp.receiver.Timer20Receiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <activity
+            android:name="id.amoled.timerapp.Notif2HrsActivity"
+            android:label="2 Jam Tercapai"
+            android:parentActivityName="id.amoled.timerapp.KeduaActivity" >
+        </activity>
+        <activity
+            android:name="id.amoled.timerapp.Notif20Activity"
+            android:label="20 Menit Tercapai"
+            android:parentActivityName="id.amoled.timerapp.KeduaActivity" >
+        </activity>
+        <activity
+            android:name="id.amoled.timerapp.PosturActivity"
+            android:label="Postur Tubuh"
+            android:parentActivityName="id.amoled.timerapp.MainActivity" >
+        </activity>
+        <activity
+            android:name="id.amoled.timerapp.PetunjukActivity"
+            android:label="Petunjuk Aplikasi"
+            android:parentActivityName="id.amoled.timerapp.MainActivity" >
+        </activity>
+        <activity
+            android:name="id.amoled.timerapp.ergonomic.ErgonomicActivity"
+            android:label="Ergonomic Rule of Twenty"
+            android:parentActivityName="id.amoled.timerapp.MainActivity" >
+        </activity>
+        <activity
+            android:name="id.amoled.timerapp.PenyakitKerjaActivity"
+            android:label="Pengenalan"
+            android:parentActivityName="id.amoled.timerapp.MainActivity" >
+        </activity>
+        <activity
+            android:name="id.amoled.timerapp.AboutActivity"
+            android:label="Pengenalan"
+            android:parentActivityName="id.amoled.timerapp.MainActivity" >
+        </activity>
+        <activity android:name="id.amoled.timerapp.BreakActivity" >
+        </activity>
+        <activity
+            android:name="id.amoled.timerapp.onboarding.PagerActivity"
+            android:label="@string/title_activity_pager"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+        <receiver
+            android:name="id.amoled.timerapp.receiver.TimerExpiredReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="id.amoled.timerapp.TimerNotificationActionReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="stop" />
+                <action android:name="pause" />
+                <action android:name="resume" />
+                <action android:name="start" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="id.amoled.timerapp.KeduaActivity"
+            android:label="Timer Kerja"
+            android:parentActivityName="id.amoled.timerapp.MainActivity" >
+        </activity>
+        <activity android:name="id.amoled.timerapp.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.deploygate.sdk.DeployGateProvider"
+            android:authorities="id.amoled.timerapp.deploygateprovider"
+            android:exported="false" />
+    </application>
+
+</manifest>
